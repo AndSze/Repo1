@@ -1,0 +1,10 @@
+ Wolumin w stacji E to Nowy
+ Numer seryjny woluminu: CEBF-C28B
+
+ Katalog: E:\Jenkins\MyGitProject
+
+2017-12-28  21:06    <DIR>          .
+2017-12-28  21:06    <DIR>          ..
+2017-12-28  21:06                 0 test1.txt
+               1 plik(¢w)                  0 bajt¢w
+               2 katalog(¢w)  458ÿ220ÿ703ÿ744 bajt¢w wolnych
