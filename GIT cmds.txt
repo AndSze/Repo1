@@ -31,6 +31,10 @@ git push -u orgin "branch name"
 
 git merge "branch name"
 
+git pull
+
+git diff <source_branch> <target_branch>
+
 git config --global user.email "szewczyk.andr@gmail.com"
 git config --global user.name "AndSze"
 
