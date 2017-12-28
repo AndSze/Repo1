@@ -21,6 +21,10 @@ git help
 
 git branch "branch name"
 
+git branch -d "local branch name to be deleted"
+
+git push orgin --delete "branch name"
+
 git checkout "branch name"
 
 git push -u orgin "branch name"
