@@ -1,3 +1,5 @@
+****** setting up a repository
+
 git init
 
 git add 
@@ -12,7 +14,20 @@ git commit *.txt -m ".txt files updated"
 git remote add orgin https://github.com/AndSze/Repo1.gitt 
 git push -u orgin master
 
+git log
+git help
+
+****** branching & merging
+
+git branch "branch name"
+
+git checkout "branch name"
+
+
+
 git config --global user.email "szewczyk.andr@gmail.com"
 git config --global user.name "AndSze"
 
 dir > index.html
+dir > test.txt
+touch test_blank.txt
