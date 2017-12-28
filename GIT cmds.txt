@@ -1,12 +1,18 @@
 git init
+
 git add 
 git add . 
 git add *.
+
 git status
+
 git commit -m "  "
+git commit *.txt -m ".txt files updated"
 
-git config --global user.email "  "
-git config --global user.name "  "
+git remote add orgin https://github.com/AndSze/Repo1.gitt 
+git push -u orgin master
 
+git config --global user.email "szewczyk.andr@gmail.com"
+git config --global user.name "AndSze"
 
 dir > index.html
